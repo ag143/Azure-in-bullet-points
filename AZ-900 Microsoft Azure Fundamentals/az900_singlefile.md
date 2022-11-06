@@ -1,6 +1,6 @@
 ### [AZ-900](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900): Microsoft Azure Fundamentals
 
-1. [Cloud Basics](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.%20Cloud%20Basics.md)
+1. [Cloud Basics](Cloud_Basics)
    1. [Benefits of Cloud Computing](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.1.%20Benefits%20of%20Cloud%20Computing.md)
    2. [Cloud Deployment Models (Public vs Private vs Hybrid Cloud)](./AZ-900%20Microsoft%20Azure%20Fundamentals/1.2.%20Cloud%20Deployment%20Models%20(Public%20vs%20Private%20vs%20Hybrid%20Cloud).md)
    3. Cloud Computing
